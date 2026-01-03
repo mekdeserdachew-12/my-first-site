@@ -1,0 +1,20 @@
+h1{
+    font-size: 24px;
+    text-align: center;
+    color: rgb(63, 6, 6);
+    background-image: linear-gradient(to right, yellow , green);
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+tr {
+    background-color: aliceblue;
+    color:aqua;
+}
